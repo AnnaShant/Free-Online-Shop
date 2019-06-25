@@ -1,0 +1,15 @@
+.box {
+  min-height: 200px;
+  background: #000;
+  text-align: center;
+  color: #fff;
+  border: solid 3px #009;
+}
+
+.box-1 {
+  min-height: 100px;
+  background: #000;
+  text-align: center;
+  color: #fff;
+  border: solid 3px #009;
+}
